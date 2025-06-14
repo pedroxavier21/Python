@@ -1,6 +1,6 @@
 import pyautogui as pa
 import time
-pa.PAUSE = 1
+pa.PAUSE = 2
 
  # pyautogui.click > clicar em algum lugar
  # pyautogui.press apertar uma tecla do teclado
